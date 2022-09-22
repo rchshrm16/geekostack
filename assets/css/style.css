@@ -2120,9 +2120,9 @@ header.style-4 {
       animation: rotate-center 100s linear infinite both; }
   header.style-4 .wave {
     position: absolute;
-    left: -3%;
-    bottom: -10px;
-    width: 106%;
+    left: 0;
+    bottom: -20px;
+    width: 100%;
     max-width: unset;
     height: 240px;
     -o-object-fit: cover;
@@ -4578,9 +4578,9 @@ header.style-6 {
 ================================================================*/
 /* --------------- community style-4 --------------- */
 .community.style-4 .content {
-  border: 1px solid #9993;
+  /* border: 1px solid #9993; */
   border-radius: 15px;
-  padding: 30px 0;
+  padding: 30px 15px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex; }
@@ -4594,8 +4594,8 @@ header.style-6 {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    width: 33%;
-    border-right: 1px solid #9993;
+    width: 40%;
+    /* border-right: 1px solid #9993; */
     padding: 20px 0; }
     .community.style-4 .content .commun-card:last-of-type {
       border: 0; }
@@ -5211,9 +5211,9 @@ footer.style-4 {
   margin-top: 200px; }
   footer.style-4 .wave {
     position: absolute;
-    left: -3%;
-    bottom: 95%;
-    width: 106%;
+    left: 0;
+    bottom: 89%;
+    width: 100%;
     max-width: unset;
     height: 240px;
     -o-object-fit: cover;
