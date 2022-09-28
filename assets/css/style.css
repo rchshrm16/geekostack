@@ -4578,7 +4578,7 @@ header.style-6 {
 ================================================================*/
 /* --------------- community style-4 --------------- */
 .community.style-4 .content {
-  /* border: 1px solid #9993; */
+  border: 1px solid #9993;
   border-radius: 15px;
   padding: 30px 15px;
   display: -webkit-box;
